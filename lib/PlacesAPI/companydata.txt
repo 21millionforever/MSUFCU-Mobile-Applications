@@ -1,0 +1,77 @@
+{companyName: CAPITAL ONE; companyFound: true; companyAppearCount: 312; types: {atm, point_of_interest, finance, establishment}}
+{companyName: HEALTHINSPREMIUM; companyFound: true; companyAppearCount: 6; types: {insurance_agency, point_of_interest, health, establishment}}{companyName: PECOENERGY; companyFound: true; companyAppearCount: 6; types: {point_of_interest, home_goods_store, store, establishment}}       
+{companyName: ATM Fee; companyFound: true; companyAppearCount: 620; types: {atm, finance, point_of_interest, establishment}}
+{companyName: CHASE CREDIT CRD; companyFound: true; companyAppearCount: 372; types: {bank, atm, finance, point_of_interest, establishment}}    
+{companyName: AMEX EPAYMENT; companyFound: true; companyAppearCount: 285; types: {finance, point_of_interest, establishment}}
+{companyName: VENMO; companyFound: true; companyAppearCount: 895; types: {point_of_interest, establishment}}
+{companyName: LIBERTY MUTUAL; companyFound: true; companyAppearCount: 39; types: {insurance_agency, point_of_interest, establishment}}
+{companyName: PAYPAL; companyFound: true; companyAppearCount: 1280; types: {point_of_interest, establishment}}
+{companyName: PYL*Village Green - Int; companyFound: true; companyAppearCount: 3; types: {real_estate_agency, point_of_interest, establishment}}
+{companyName: ERIC'S MARKET; companyFound: true; companyAppearCount: 3; types: {grocery_or_supermarket, liquor_store, food, point_of_interest, store, establishment}}
+{companyName: PAI ISO; companyFound: true; companyAppearCount: 4; types: {atm, finance, point_of_interest, establishment}}
+{companyName: 365 MARKET A 888 432-32; companyFound: true; companyAppearCount: 3; types: {point_of_interest, establishment}}
+{companyName: ENVY SALON; companyFound: true; companyAppearCount: 3; types: {beauty_salon, point_of_interest, establishment}}
+{companyName: COMCAST; companyFound: true; companyAppearCount: 18; types: {point_of_interest, establishment}}
+{companyName: McDonalds 11900; companyFound: true; companyAppearCount: 3; types: {cafe, store, restaurant, food, point_of_interest, establishment}}
+{companyName: Michigan One Com; companyFound: true; companyAppearCount: 6; types: {atm, finance, point_of_interest, establishment}}
+{companyName: MEIJER 194; companyFound: true; companyAppearCount: 6; types: {grocery_or_supermarket, supermarket, clothing_store, bakery, food, point_of_interest, store, establishment}}
+{companyName: WAL-MART ; companyFound: true; companyAppearCount: 11; types: {department_store, hardware_store, grocery_or_supermarket, furniture_store, electronics_store, home_goods_store, clothing_store, store, food, point_of_interest, establishment}}
+{companyName: STATE FARM RO 08; companyFound: true; companyAppearCount: 20; types: {insurance_agency, point_of_interest, establishment}}       
+{companyName: CONSUMERS ENERGY; companyFound: true; companyAppearCount: 195; types: {point_of_interest, establishment}}
+{companyName: STATE FARM RO 27; companyFound: true; companyAppearCount: 50; types: {insurance_agency, point_of_interest, establishment}}       
+{companyName: 1ST BANKCARD CTR; companyFound: true; companyAppearCount: 13; types: {point_of_interest, establishment}}
+{companyName: VERIZON WIRELESS; companyFound: true; companyAppearCount: 75; types: {store, point_of_interest, establishment}}
+{companyName: COMCAST 8529114; companyFound: true; companyAppearCount: 36; types: {point_of_interest, establishment}}
+{companyName: DELTA CHARTER TW; companyFound: true; companyAppearCount: 16; types: {secondary_school, school, point_of_interest, establishment}}
+{companyName: MEIJER; companyFound: true; companyAppearCount: 42; types: {grocery_or_supermarket, supermarket, clothing_store, bakery, food, point_of_interest, store, establishment}}
+{companyName: LANSING BWL UTIL; companyFound: true; companyAppearCount: 63; types: {local_government_office, point_of_interest, establishment}}{companyName: KOHL'S; companyFound: true; companyAppearCount: 45; types: {department_store, point_of_interest, store, establishment}}
+{companyName: Draft Acct Fee; companyFound: true; companyAppearCount: 16; types: {accounting, finance, point_of_interest, establishment}}      
+{companyName: Acorns Invest; companyFound: true; companyAppearCount: 123; types: {finance, point_of_interest, establishment}}
+{companyName: Transfer fee; companyFound: true; companyAppearCount: 31; types: {finance, point_of_interest, establishment}}
+{companyName: Subscription; companyFound: true; companyAppearCount: 44; types: {point_of_interest, establishment}}
+{companyName: PLANET FIT; companyFound: true; companyAppearCount: 152; types: {gym, spa, health, point_of_interest, establishment}}
+{companyName: FIESTA MART ; companyFound: true; companyAppearCount: 3; types: {convenience_store, grocery_or_supermarket, food, point_of_interest, store, establishment}}
+{companyName: AMERICAN FIRST FINANCE; companyFound: true; companyAppearCount: 3; types: {car_dealer, store, point_of_interest, establishment}} 
+{companyName: CRT*Credit.comCreditRpt; companyFound: true; companyAppearCount: 3; types: {finance, point_of_interest, establishment}}
+{companyName: MANCINOS PIZZA AND GRI; companyFound: true; companyAppearCount: 3; types: {restaurant, food, point_of_interest, establishment}}  
+{companyName: MCDONALD'S F8145; companyFound: true; companyAppearCount: 3; types: {cafe, store, restaurant, point_of_interest, food, establishment}}
+{companyName: AMAZON.COM; companyFound: true; companyAppearCount: 90; types: {point_of_interest, establishment}}
+{companyName: CHEE PENG RESTAURANT; companyFound: true; companyAppearCount: 2; types: {restaurant, food, point_of_interest, establishment}}    
+{companyName: INTERCONTINENTAL; companyFound: true; companyAppearCount: 2; types: {lodging, point_of_interest, establishment}}
+{companyName: WOW!; companyFound: true; companyAppearCount: 21; types: {point_of_interest, establishment}}
+{companyName: QFC ; companyFound: true; companyAppearCount: 2; types: {church, place_of_worship, point_of_interest, establishment}}
+{companyName: SHELL SERVICE STATION; companyFound: true; companyAppearCount: 22; types: {gas_station, atm, convenience_store, finance, food, store, point_of_interest, establishment}}
+{companyName: WENDYS 1533; companyFound: true; companyAppearCount: 2; types: {restaurant, food, point_of_interest, establishment}}
+{companyName: QUALITY DAIRY - S PENNSY; companyFound: true; companyAppearCount: 4; types: {convenience_store, atm, liquor_store, cafe, gas_station, bakery, finance, point_of_interest, store, food, establishment}}
+{companyName: EDGE FITNESS ABC; companyFound: true; companyAppearCount: 2; types: {gym, health, point_of_interest, establishment}}
+{companyName: EMAGINE NOVI; companyFound: true; companyAppearCount: 5; types: {movie_theater, point_of_interest, establishment}}
+{companyName: APPLE CASH; companyFound: true; companyAppearCount: 8; types: {electronics_store, point_of_interest, store, establishment}}      
+{companyName: LITTLE CAESARS 1303 000; companyFound: true; companyAppearCount: 2; types: {meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment}}
+{companyName: GLOSSIER; companyFound: true; companyAppearCount: 2; types: {store, point_of_interest, establishment}}
+{companyName: TARGET T-0616; companyFound: true; companyAppearCount: 4; types: {department_store, shoe_store, electronics_store, clothing_store, grocery_or_supermarket, furniture_store, home_goods_store, store, food, point_of_interest, establishment}}
+{companyName: CLAIRE'S ; companyFound: true; companyAppearCount: 3; types: {jewelry_store, point_of_interest, store, establishment}}
+{companyName: LAFCU; companyFound: true; companyAppearCount: 5; types: {atm, bank, finance, point_of_interest, establishment}}
+{companyName: SOARING; companyFound: true; companyAppearCount: 2; types: {university, point_of_interest, establishment}}
+{companyName: EDUCATIONAL COMP; companyFound: true; companyAppearCount: 9; types: {point_of_interest, establishment}}
+{companyName: TARGET T-1229; companyFound: true; companyAppearCount: 2; types: {department_store, shoe_store, grocery_or_supermarket, electronics_store, clothing_store, furniture_store, home_goods_store, store, food, point_of_interest, establishment}}
+{companyName: DOLLARTREE; companyFound: true; companyAppearCount: 4; types: {furniture_store, home_goods_store, grocery_or_supermarket, store, food, point_of_interest, establishment}}
+{companyName: NCP Management C; companyFound: true; companyAppearCount: 4; types: {point_of_interest, establishment}}
+{companyName: Padmatch Realty; companyFound: true; companyAppearCount: 2; types: {real_estate_agency, general_contractor, finance, point_of_interest, establishment}}
+{companyName: COSTCO WHSE; companyFound: true; companyAppearCount: 3; types: {department_store, store, point_of_interest, establishment}}
+{companyName: MICHIGAN O; companyFound: true; companyAppearCount: 4; types: {university, school, point_of_interest, establishment}}
+{companyName: TruStage CMFG; companyFound: true; companyAppearCount: 9; types: {insurance_agency, point_of_interest, establishment}}
+{companyName: MEIJER ; companyFound: true; companyAppearCount: 43; types: {grocery_or_supermarket, bakery, supermarket, clothing_store, point_of_interest, store, food, establishment}}
+{companyName: KOHLS; companyFound: true; companyAppearCount: 11; types: {department_store, store, point_of_interest, establishment}}
+{companyName: SPIRIT HALLOWEEN 60409; companyFound: true; companyAppearCount: 3; types: {clothing_store, home_goods_store, store, point_of_interest, establishment}}
+{companyName: JIMMY JOHNS - 90055 - E; companyFound: true; companyAppearCount: 2; types: {restaurant, food, point_of_interest, establishment}} 
+{companyName: PARTY CITY 492; companyFound: true; companyAppearCount: 2; types: {clothing_store, home_goods_store, store, food, point_of_interest, establishment}}
+{companyName: Nicor Gas; companyFound: true; companyAppearCount: 6; types: {point_of_interest, establishment}}
+{companyName: COMED; companyFound: true; companyAppearCount: 6; types: {point_of_interest, establishment}}
+{companyName: CARDMEMBER SERV; companyFound: true; companyAppearCount: 36; types: {finance, point_of_interest, establishment}}
+{companyName: JPMORGAN CHASE; companyFound: true; companyAppearCount: 19; types: {bank, atm, finance, point_of_interest, establishment}}       
+{companyName: Christian Financ; companyFound: true; companyAppearCount: 4; types: {insurance_agency, point_of_interest, establishment}}        
+{companyName: Oakland Hills Co; companyFound: true; companyAppearCount: 4; types: {point_of_interest, establishment}}
+{companyName: FLAGSTAR; companyFound: true; companyAppearCount: 30; types: {bank, finance, point_of_interest, establishment}}
+{companyName: PL*BeanstalkProp; companyFound: true; companyAppearCount: 4; types: {point_of_interest, establishment}}
+{companyName: DISCOVER; companyFound: true; companyAppearCount: 194; types: {church, place_of_worship, point_of_interest, establishment}}      
+{companyName: PAYPAL *PYPL PAYIN4; companyFound: true; companyAppearCount: 4; types: {point_of_interest, establishment}}

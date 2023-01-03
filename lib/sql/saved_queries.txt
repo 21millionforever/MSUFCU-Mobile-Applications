@@ -1,0 +1,59 @@
+SELECT DISTINCT Merchant
+from transaction
+where Merchant not like '1.%'
+and Merchant <> ''
+and Merchant not like 'To %'
+and Merchant not like 'Over%'
+ORDER BY Merchant asc
+;
+
+
+// gets a list of Merchant from the transaction data
+// filters out not useful data
+SELECT DISTINCT Merchant
+from transaction
+where Merchant not like '1.%'
+and Merchant not like '%E+%'
+and substring(Merchant, 1, 1)
+                  NOT IN ('0','1','2','3','4','5','6','7','8','9')
+and Merchant <> ''
+and Merchant not like 'To %'
+and Merchant not like 'Over%'
+ORDER BY Merchant desc
+;
+
+SELECT MemberID, Merchant, Amount
+from transaction
+where Merchant like '%starb%'
+;
+
+// gets all company types based on shared id and optional company name
+SELECT company.name, company_types.type
+from company, company_types
+where company.id = company_types.ID
+and company.name = 'COMPANY NAME';
+
+// gets total amount spent at a company based on MemberID and Merchant
+select transaction.MemberID, transaction.Merchant, SUM(DISTINCT transaction.Amount), company.ID
+from company, transaction
+where company.Name = transaction.Merchant
+GROUP BY transaction.MemberID, transaction.Merchant, company.ID;
+
+
+// This query will get you all recommend local loyalty id that should be recommend
+SELECT recommend.LLID
+FROM recommend, user_info
+where recommend.memberID = user_info.MemberID
+and recommend.recommend is true
+and user_info.MemberID = '1125DB8MWYVPF67R24'; // replace this memberID with the logged in user
+
+// updates the recommend table to stop recommending a company
+UPDATE recommend
+SET recommend = false
+where recommend.memberID = '1125DB8MWYVPF67R24' // replace this memberID with the logged in user;
+and recommend.LLID = '19'; // replace this with the relevant Local loyalty id
+
+UPDATE recommend
+SET recommend = true
+where recommend.memberID = '1125DB8MWYVPF67R24'
+and recommend.LLID = '19';
